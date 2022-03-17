@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [luciococorullo.me](luciococorullo.me)
+- 👨‍💻 All of my projects are available at [luciococorullo.me](https://cutt.ly/PSaqETw)
 
 - 💬 Ask me about **Flutter,C++,Java and Swift**
 
