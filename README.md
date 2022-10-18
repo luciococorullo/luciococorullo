@@ -3,11 +3,9 @@
 
 - 🔭 I’m currently studying CS at **University Parthenope**
 
-- 🌱 I’m currently learning **React**
-
 - 👨‍💻 All of my projects are available at [luciococorullo.me](https://cutt.ly/PSaqETw)
 
-- 💬 Ask me about **Flutter,C++,Java and Swift**
+- 💬 My skills are **Flutter,C++,JavaScript and Swift**
 
 - 📫 How to reach me **luciococorullo17@gmail.com**
 
