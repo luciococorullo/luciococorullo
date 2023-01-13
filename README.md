@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucio Cocorullo</h1>
-<h3 align="center">A student and a mobile developer from Naples 🇮🇹</h3>
+<h3 align="center">I'm a graduate software developer from Naples 🇮🇹 🇮🇹</h3>
 
-- 🔭 I’m currently studying CS at **University Parthenope**
+- 🔭 I studied CS at **University Parthenope**
 
 - 👨‍💻 All of my projects are available at [luciococorullo.me](https://cutt.ly/PSaqETw)
 
