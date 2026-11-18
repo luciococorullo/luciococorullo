@@ -1,17 +1,19 @@
-<h1 align="center">Hi 👋, I'm Lucio Cocorullo</h1>
-<h3 align="center">I'm a graduate software developer from Naples 🇮🇹 🇮🇹</h3>
+### Hi, I'm Lucio 👋
 
-- 🔭 BSc graduate - **University Parthenope**
+CTO at **[Creja](https://creja.it)**, a small software studio from Naples building digital tools
+for businesses that still run on paper, and mobile/backend developer at **Bestie Bite**.
 
-- 👨‍💻 All of my projects are available at [luciococorullo.me](https://cutt.ly/PSaqETw)
+**What I'm building**
+- 🤖 **[Creja AI](https://creja.ai)**: an AI commerce assistant for online shops
+- 📅 **[Zendo](https://zendoapp.it)**: booking, loyalty and payments for clinics, salons and studios (client app + multi-tenant backoffice)
+- 🐾 **Bestie Bite**: mobile app and backend
+- 🚆 **[Vesuvia](https://github.com/luciococorullo/vesuvia-search)**: live train times for the Circumvesuviana, Cumana and Circumflegrea around Naples, open source ([live demo](https://vesuvia-search.vercel.app))
 
-- 💬 My skills are **Flutter, JavaScript and Swift**
+**Stack**
 
-- 📫 Reach me at **luciococorullo17@gmail.com**
+Flutter/Dart · TypeScript · Next.js · Node · Python · Firebase · PostgreSQL · Claude API & multi-agent systems
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/luciococorullo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="luciococorullo" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/luciococorullo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luciococorullo" height="30" width="40" /></a>
-<a href="https://instagram.com/lucio_____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lucio_____" height="30" width="40" /></a>
-</p>
+**Lately** I've been building AI agents that do real work: a personal assistant that runs
+my day from Telegram and an iOS app, and agents that handle quotes, projects and customer chats at Creja.
+
+📫 [LinkedIn](https://linkedin.com/in/luciococorullo) · [X](https://x.com/luciococoru) · [creja.it](https://creja.it)
