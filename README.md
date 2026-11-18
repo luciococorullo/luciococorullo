@@ -6,7 +6,7 @@ for businesses that still run on paper, and mobile/backend developer at **Bestie
 **What I'm building**
 - 🤖 **[Creja AI](https://creja.ai)**: an AI commerce assistant for online shops
 - 📅 **[Zendo](https://zendoapp.it)**: booking, loyalty and payments for clinics, salons and studios (client app + multi-tenant backoffice)
-- 🐾 **Bestie Bite**: mobile app and backend
+- 🐾 **[Bestie Bite](https://bestiebite.it)**: mobile app, backend and AI
 - 🚆 **[Vesuvia](https://github.com/luciococorullo/vesuvia-search)**: live train times for the Circumvesuviana, Cumana and Circumflegrea around Naples, open source ([live demo](https://vesuvia-search.vercel.app))
 
 **Stack**
